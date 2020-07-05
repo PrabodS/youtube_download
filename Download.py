@@ -21,6 +21,6 @@ printf "\e[34m Instructions: You can download youtube videos in all format with 
 printf "\e[34m copy and paste the youtube URL ex:opYAyx1Humc \e[34m\n" 
 
 read -p $'\e[1;92m[\e[0m\e[1;77m?\e[0m\e[1;92m] Place the Youtube url:\e[0m ' url
-printf "\e[1;92m Your Youtube URL:\e[0m https://www.y2mate.com/youtube/%s\n" $url 
+printf "\e[1;92m Your Video Download URL:\e[0m https://www.y2mate.com/youtube/%s\n" $url 
 
 printf "\e[1;37;1;41m Enjoy Watching *_* \e[0m\n"
